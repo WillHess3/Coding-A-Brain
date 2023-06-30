@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "75c6364b-a31d-4df1-9b81-e7106ffd7d24",
+            "actions": [
+                {
+                    "name": "Mouse Pressed",
+                    "type": "Button",
+                    "id": "45c9d6f8-481d-4d89-ad87-aebb9adbfb06",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8fc9adc2-2906-4b5e-99dc-c2f082e73a42",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse Pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
